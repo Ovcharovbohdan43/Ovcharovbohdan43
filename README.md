@@ -1,6 +1,6 @@
 ### Hi, I'm Bohdan Ovcharov
 
-**Full-stack developer** Â· Founder of [Puyer](https://www.puyer.org) â€” invoicing SaaS for freelancers and micro-businesses.
+**Full-stack developer** A Founder of [Puyer](https://www.puyer.org)  invoicing SaaS for freelancers and micro-businesses.
 
 ---
 
@@ -16,7 +16,7 @@
 #### Elsewhere
 
 - **Website:** [puyer.org](https://www.puyer.org)
-- **Company:** Puyer Ltd. Â· Wales, UK
+- **Company:** Puyer Ltd. Wales, UK
 
 ---
 
